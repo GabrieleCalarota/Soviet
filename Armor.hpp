@@ -1,6 +1,6 @@
 #ifndef ARMOR_HPP_
 #define ARMOR_HPP_
-#include "Mylibrary.hpp"
+#include "MyLibrary.hpp"
 #ifndef tipi_armi_armature
 #define tipi_armi_armature
 enum weapon_type{fasce_da_combattimento,mazza,manganello,scure_antincendio,laser_chirurgico,coltello,spara_chiodi,pistola,uzi,arpione,fucile_a_pompa,lanciagranate,balestra_esplosiva,sniper,
